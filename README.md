@@ -1,4 +1,4 @@
-#Sitevision without musarm
+# Sitevision without musarm
 
 ## Why? 
 Sitevision is many things, but for now, it's not very ergonomic. Short commands are essiential if you are working in a complex system with a lot of menus. 
