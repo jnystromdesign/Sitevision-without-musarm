@@ -17,7 +17,7 @@ To be continued.... Pull requests are welcome.
 
 ### Install
 - Install Tampermonkey in your Chrome Browser.
-- Download a zip of this repo (or cut n'paste fdirectly from the raw file) and create a new Tampermonkey script and paste the code you've just copied. 
+- Download a zip of this repo (or cut n'paste fdirectly from [the raw file](https://github.com/jnystromdesign/Sitevision-without-musarm/raw/master/Sitevision%20without%20musarm.user.js)) and create a new Tampermonkey script and paste the code you've just copied. 
 - **Change the url** (This is crucial) to `https://your-site.com/*' (and make sure to leave the wildcard)
 - Happy "coding"!
 
